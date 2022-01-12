@@ -1,0 +1,43 @@
+hp = 25
+hpMax = 25
+mp = 10
+mpMax = 10
+strength = 15
+dexterity = 14
+constitution = 13
+intelligence = 12
+wisdom = 10
+charisma = 8
+accuracy = 13
+defense = 12
+level = 3
+experience = 95
+experienceCap = 200
+gold = 13
+keenEye = -1
+chillTouchLearned = 0
+spellweaving = -1
+secondWind = -2
+chestAquired = 0
+townQuest = 0
+INVENTORY
+1
+0
+0
+0
+0
+0
+0
+0
+7
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
